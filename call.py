@@ -58,7 +58,7 @@ def main():
 	tiks(C+50*'=')
 	tiks(C+'['+W+'4'+C+']'+W+' REPORT BUG'+K+'\t\t    -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
 	tiks(C+50*'=')
-	tiks(C+'['+W+'5'+C+']'+W+' SUBSCRIBE YT'+K+'\t    -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
+	tiks(C+'['+W+'5'+C+']'+W+' MAMPIR KE BLOG'+K+'\t    -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
 	tiks(C+50*'=')
 	tiks(C+'['+W+'X'+C+']'+W+' EXIT / KELUAR'+K+'\t    -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
 	tiks(C+50*'=')
