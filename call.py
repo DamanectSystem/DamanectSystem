@@ -33,7 +33,7 @@ def banner():
 \____/| .__/ \__,_|_| |_| |_|  \____/\__,_|_|_|
       | |                                      
       |_|                                      
-                '''+W+'Creator : DamanectSystem    Blog : http://mrd4ytutorial.blogspot.com
+                '''+W+'Creator : DamanectSystem     Blog : mrd4ytutorial.blogspot.com')
                 
 def tiks(s):
 	for x in s + '\n':
