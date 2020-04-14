@@ -231,16 +231,16 @@ def main():
 					
 		elif pilih == '4':
 			print
-			os.system('xdg-open http://wa.me/6285880818385?text=Hallo%20Min.%20Saya%20Nemu%20Kesalahan%20:%0A%0A')
+			os.system('xdg-open http://wa.me/6283872273467?text=Hallo%20Min.%20Saya%20Nemu%20Kesalahan%20:%0A%0A')
 			sleep(2)
 			print(W+'Hayooo Abis Report Apa'+C+' ^_^')
 			sys.exit()
 			
 		elif pilih == '5':
 			print
-			os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
+			os.system('xdg-open https://mrd4ytutorial.blogspot.com')
 			sleep(2)
-			tanya = raw_input(W+'Udah Subscribe Belum ?'+C+' ^_^'+W+' ['+C+'Y'+W+'/'+C+'n'+W+']'+C+' : '+W+'')
+			tanya = raw_input(W+'Udah Mampir Belum ?'+C+' ^_^'+W+' ['+C+'Y'+W+'/'+C+'n'+W+']'+C+' : '+W+'')
 			if tanya.upper() == 'Y':
 				print
 				print(W+'Terima Kasih'+C+' ^_^')
